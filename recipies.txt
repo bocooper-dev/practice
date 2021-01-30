@@ -1,3 +1,10 @@
 Apple Pie:
   1 part Apple
   1 part Pie
+
+Apple Sunday:
+  1 Apple
+  1 Scoop Ice Cream
+  1 Tbsp Melted Caramel
+
+  *NOTE: most be prepared on the 7th day of the week, consumable on any day*
